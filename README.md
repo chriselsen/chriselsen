@@ -12,6 +12,11 @@
 * [Edge Cloud](https://www.edge-cloud.net/) - A personal blog about various technical subjects, especially data centers, virtualization, networking and cloud computing.
 * [AS213151](https://as213151.net/) - Research and educational network with ASN 213151.
 
+#### 💸 Sponsor
+
+* [Buy me a coffee](https://www.buymeacoffee.com/chriselsen/) 
+* [PayPal Me](https://www.paypal.com/paypalme/christianelsen)
+
 <!--
 **chriselsen/chriselsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
