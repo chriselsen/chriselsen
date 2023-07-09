@@ -15,4 +15,5 @@
 **If you enjoy my work, please consider sponsoring:**
 
 [![Buy Me A Coffee](https://raw.githubusercontent.com/chriselsen/chriselsen/main/buymeacoffee.png)](https://www.buymeacoffee.com/chriselsen)
-[![Support via PayPal](https://raw.githubusercontent.com/chriselsen/chriselsen/main/paypal-donate-button-small.png)](https://www.paypal.me/christianelsen)
+[![Support via PayPal](https://raw.githubusercontent.com/chriselsen/chriselsen/main/paypal-donate.png)](https://www.paypal.me/christianelsen)
+[![Sponsor on Github](https://raw.githubusercontent.com/chriselsen/chriselsen/main/github-sponsor.png)](https://github.com/sponsors/chriselsen)
